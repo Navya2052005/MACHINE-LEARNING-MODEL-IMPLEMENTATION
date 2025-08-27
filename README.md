@@ -21,4 +21,5 @@ For example, the model can be applied to problems such as spam email detection, 
 The deliverable for this task is a Jupyter Notebook that showcases the complete workflow, including data preprocessing, model implementation, training, testing, and performance evaluatiON
 
 OUTPUT
+![Image](https://github.com/user-attachments/assets/da57f38c-0051-4708-acf1-65506a746455)
 
